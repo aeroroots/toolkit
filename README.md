@@ -29,6 +29,11 @@ This system can be implemented in schools, work, makerspaces or at home. It's mo
 
 ## Bill of Materials
 
+| Quantity | Component              | Link         |
+| :-------:|------------------------| -------------|
+| 1        | Raspberry Pi + SD card |              |
+| 3        | Relays                 |              |
+| 3        | ESP's                  |              |
 
 
 ----
