@@ -43,6 +43,22 @@ This system can be implemented in schools, work, makerspaces or at home. It's mo
 | 1        | Grow Light             |[Amazon](https://www.amazon.de/MIXC-Pflanzenlampe-Vollspektrum-Pflanzenetiketten-Gartenger%C3%A4te/dp/B07DNRP8FW/ref=sr_1_10?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=grow+light&qid=1566895894&s=gateway&sr=8-10)|
 | 1        | Super fun transparent IKEA box |[IKEA](https://www.ikea.com/es/en/p/samla-box-transparent-30102974/)|
 
+### Building Material
+
+| Quantity| Component              | Link         |
+| :------:|------------------------| -------------|
+| 18      | Misting Nozzles with anti drip |[Aliexpress](https://www.aliexpress.com/item/32996003445.html?spm=a2g0s.9042311.0.0.16c34c4daf9BCl)|
+| 12      | Tee Branch Connectors 1/4" Tube x 1/8" Thread for Nozzles|[Aliexpress](https://www.aliexpress.com/item/32732491363.html?spm=a2g0o.cart.0.0.33cb3c00265YNW&mp=1)|
+| 6       | Elbow Connectors 1/4" Tube x 1/8" Thread for Nozzles|[Aliexpress](https://www.aliexpress.com/item/32826067687.html?spm=a2g0s.9042311.0.0.16c34c4daf9BCl)|
+| 2       | Connector 1/2" - 1/4" for Pump|[Amazon](https://www.amazon.es/gp/product/B07GDFTFBK/ref=ppx_yo_dt_b_asin_title_o02_s01?ie=UTF8&psc=1)|
+| 2       | Packs of Food Safe Black Tubes 14 m x 6 mm x 4 mm|[Amazon](https://www.amazon.es/gp/product/B00N3WMJQK/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1)|
+| 2       | Cable Gland Food Safe for 6 mm tubes|              |
+| 3       | Valves for 1/4" Tube|[Amazon](https://www.amazon.es/gp/product/B01D4O844M/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)|
+| 20      | Aluminium Tubes SIZE x 6 mm| Local dealer |
+| 10      | Wood beams 20 mm x 20 mm x 2.40 m| Local dealer |
+| 2       | Wood sheets 60 cm x 140 cm x 10 mm| Local dealer |
+| 1       | HDPE Sheet 1 mm | Precious Plastic |
+
 
 ## Step by Step Building guide
 
