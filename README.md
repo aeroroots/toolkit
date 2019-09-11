@@ -20,3 +20,27 @@ This system can be implemented in schools, work, makerspaces or at home. It's mo
 - Balena etcher to flash the Image on to the RaspberryPi.
 - Online: NodeRed → Browser based flow editor for easy coding.
 - Online: Grafana → Open source online tool for data visualisation
+
+----
+
+## Dimensions and Modularity
+
+----
+
+## Bill of Materials
+
+
+
+----
+
+## Step by Step Building guide
+
+---
+
+## Code
+
+### Getting started
+
+---
+
+## Planting and Maintaining
