@@ -11,7 +11,7 @@ This system can be implemented in schools, work, makerspaces or at home. It's mo
 ### Tools
 - 3D Printer such as Ultimaker or Anycubic - Kossel: available for around 150€ from Aliexpress. (Preferably recycled food safe filament such as Nylon, PET or PP.)
 - Circular Saw or Handsaw
-- Vacuumtable - Can easily be replicated with a strong vacuum cleaner and a frame ([see here](https://www.youtube.com/watch?v=O790OvRy1rc)). The other option is to adapt the design to a pre-made recycled PP box from for example [Whatmoreuk](https://www.whatmoreuk.com/product/wham-bam-36l-h-duty-box-lid-grey-upcycled/)
+- Vacuumtable - With this you will be able to make the growing box for your ROOTS. If you do not have a Vacuumtable in your workshop you can easily build one from scratch with a strong vacuum cleaner and materials from your local hardware store ([see here](https://www.youtube.com/watch?v=O790OvRy1rc)). The other option is to adapt the design to a pre-made recycled PP box from for example [Whatmoreuk](https://www.whatmoreuk.com/product/wham-bam-36l-h-duty-box-lid-grey-upcycled/)
 
 ### Software
 - Rhinoceros 3D or any other 3D modelling software you feel comfortable with (i.e. Fusion 360 etc).
@@ -26,14 +26,13 @@ This system can be implemented in schools, work, makerspaces or at home. It's mo
 
 ## Bill of Materials
 
-
 ### Electronics
 
 | Quantity | Component              | Link                      |
 | :-------:|------------------------| --------------------------|
-| 1        | Raspberry Pi + SD card | [Thepihut](https://thepihut.com/products/raspberry-pi-4-model-b)|
-| 3        | Relays                 |              |
-| 3        | ESP's                  |              |
+| 1        | Raspberry Pi + SD card |[Thepihut](https://thepihut.com/products/raspberry-pi-4-model-b)|
+| 3        | ESP's + Relays         |[Aliexpress](https://es.aliexpress.com/item/32968916875.html?spm=a2g0s.9042311.0.0.2aab63c0JsuBf9)|
+| 3        | Node MCU                  |[Aliexpress](https://es.aliexpress.com/item/32944677129.html?spm=a2g0s.9042311.0.0.2aab63c0JsuBf9)|
 | 1        | Power Supply DC 6.5 Amp|              |
 | 1        | Analog Pressure Gauge  |[Amazon](https://www.amazon.com/Express-Water-Pressure-Fittings-Connection/dp/B01KU6C4E8)|
 | 1        | Digital Pressure Sensor|[Amazon](https://www.amazon.es/gp/product/B07MW7K98H/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)|
@@ -60,10 +59,27 @@ This system can be implemented in schools, work, makerspaces or at home. It's mo
 | 1       | HDPE Sheet 1 mm | Precious Plastic |
 
 
+### Growing Materials
+
+| Quantity | Component              | Link                      |
+| :-------:|------------------------| --------------------------|
+| 1        | Rockwool               |                           |
+| 1        | Netpods                |                           |
+| 1        | EC Monitor             |                           |
+| 1        | pH Kit                 |                           |
+| 1        | Worms                  |                           |
+| 1        | Box for wormies        |                           |
+| 1        | Seeds                  |                           |
+
+
 ## Step by Step Building guide
+
+**Please refer to to guide** Link to page with step by step tutorial
 
 ## Code
 
-### Getting started
+**Please refer to code page** Link to page with step by step tutorial
 
 ## Planting and Maintaining
+
+**Please refer to to guide** Link to page with step by step tutorial
